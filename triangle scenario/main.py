@@ -2,7 +2,7 @@ from z3 import *
 from tensor import *
 from observedDistribution import *
 from ring6 import *
-from localDecomp import *
+from localModel import *
 from spiral import *
 import numpy as np
 import csv
